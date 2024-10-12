@@ -1,0 +1,57 @@
+
+
+  .image-height{
+    height: 40px;
+  }
+
+  .navbar {
+    padding: 10px;             /* Padding around the navbar */
+  }
+  
+  .nav-list {
+    list-style-type: none;     /* Remove bullet points */
+    display: flex;             /* Use flexbox for horizontal layout */
+    margin: 0;                 /* Remove default margin */
+    padding: 0;                /* Remove default padding */
+  }
+  
+  .nav-item {
+    margin-right: 20px; 
+    margin-top: 10px;       /* Space between items */
+  }
+  
+  .nav-item a {
+    text-decoration: none;     /* Remove underline */
+  }
+  
+  .image-height {
+    max-height: 100px; /* Set a max height for the image */
+    width: auto;       /* Maintain aspect ratio */
+  }
+
+  .paddin-right-200{
+    padding-right: 200px;
+  }
+
+
+
+  .button-background{
+    border: white;
+    height: 35px;
+    background-color: white;
+  }
+
+  .signup-button-background{
+    border: white;
+    border-radius: 10px;
+    height: 35px;
+    background-color: rgb(64, 224, 64);
+  }
+  
+  .padding-left-5{
+      padding-left: 500px;
+  }
+
+  .padding-left-3{
+    padding-left: 300px;
+}
